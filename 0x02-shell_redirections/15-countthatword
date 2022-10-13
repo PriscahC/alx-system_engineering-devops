@@ -1,2 +1,2 @@
 #!/bin/bash
-add word count
+grep bin /etc/passwd | wc -l

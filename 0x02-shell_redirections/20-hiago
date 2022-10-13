@@ -1,2 +1,2 @@
 #!/bin/bash
-removes c and C
+tr -d [cC]
