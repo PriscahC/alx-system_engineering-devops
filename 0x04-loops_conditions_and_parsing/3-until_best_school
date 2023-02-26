@@ -1,9 +1,3 @@
 #!/bin/env bash
 #bash script using until loop
-a=0
-
-until [ ! $a -lt 10 ]
-do
-	   echo "Best School"
-	      a=`expr $a + 1`
-done
+a=0; until [ ! $a -lt 10 ]; do echo "Best School"; a=`expr $a + 1`; done
