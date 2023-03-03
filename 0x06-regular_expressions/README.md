@@ -1,18 +1,6 @@
 0x06. Regular expression
 ========================
 
--   By Dev Nderitu
--   Weight: 1
-
-
-#### In a nutshell...
-
--   **Auto QA review:** 1.0/24 mandatory & 0.0/9 optional
--   **Altogether:**  **4.17%**
-    -   Mandatory: 4.17%
-    -   Optional: 0.0%
-    -   Calculation:  4.17% + (4.17% * 0.0%)  == **4.17%**
-
 Concepts
 --------
 
